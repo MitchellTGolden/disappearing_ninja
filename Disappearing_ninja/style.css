@@ -1,0 +1,15 @@
+
+#wrapper{
+    width: 1000px;
+}
+.img_wrap{
+    width: 20%;
+}
+img{
+    width: 100%;
+}
+.row{
+    width: 100%;
+    min-height: 300px;
+}
+
